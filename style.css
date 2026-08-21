@@ -21,6 +21,6 @@ img {
     display: flex;
 }
 
-   frase {
+   .frase {
       font-size: bold;
    }
